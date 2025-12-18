@@ -1,4 +1,4 @@
-# Zen Browser – Instagram High-Resolution Image Fix
+# Instagram High-Resolution Image Fix
 
 This repository provides a **Zen / Firefox-specific fix** for Instagram images downgrading to low resolution after load. Works with Chronium-based browsers as well. 
 
