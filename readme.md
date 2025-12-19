@@ -38,7 +38,7 @@ This is the **only reliable interception point** that survives SPA hydration.
 
 ## Userscript
 
-**File:** `userscript/zen-instagram-force-hd.user.js`
+**File:** `userscript/zen-instagram-hd.fix.js`
 
 ```javascript
 // ==UserScript==
